@@ -1,0 +1,1 @@
+This is paper optimization pack to upload it you have delete (server.properties,bukkit.yml,spogit.yml,config) and upload this and unarchive/extract then it would work don't forget use plugins like (Chunky,PerfoBooster,clearlagg) (optional: lightoptimization) hence it reduces lag in free servers and paid too
